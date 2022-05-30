@@ -46,3 +46,18 @@ The following table lists the name and code of each Region (29 de maio de 2022).
 |Europe (Stockholm)	      |eu-north-1|
 |Middle East (Bahrain)	  |me-south-1|
 |South America (São Paulo)|sa-east-1|
+
+## JMESPath
+
+[JMESPath Specification](https://jmespath.org/specification.html)
+
+## AWS CLI
+
+[Filtering AWS CLI output](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-filter.html)
+
+## Codes
+
+- SKU: product code
+- offerTermCode: pricing term code
+- priceDimensions: price dimensions code
+
